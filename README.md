@@ -86,4 +86,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Inspiration**: This project is inspired by various database management systems and movie catalog applications.
 - **Support**: Thanks to the open-source community for the resources and tools used in this project.
+### Team Members
+
+- 1.Parishit V     (23PD24)
+- 2.Mohan Dravid R (23PD20)
  ---
