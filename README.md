@@ -17,35 +17,7 @@ The **Movie Database Management System** is a C-based application designed to ma
   - Display all movies
   - Search movies by title, director, or year
   - Exit the system
-
-## Getting Started
-
-### Prerequisites
-
-- C Compiler (GCC)
-- IDE (Code::Blocks)
-
-### Installation
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/moviedb.git
-   cd moviedb
-   ```
-
-2. **Compile the Code**
-
-   ```bash
-   gcc -o movie_db movie_db.c
-   ```
-
-3. **Run the Application**
-
-   ```bash
-   ./movie_db
-   ```
-
+    
 ### Usage
 
 1. **Start the Application**
